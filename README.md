@@ -10,4 +10,4 @@ and I am now focusing on **TypeScript**, **Rust**, and **Python**.
 
 **[My dotfiles](https://github.com/gaojunran/dotfiles)**: nushell, vscode, ghostty...
 
-I'm teaching how to solve "lanqiao" competition (web group) problems on **[Bilibili](https://space.bilibili.com/3493089530350281)**.
+I'm teaching about "lanqiao" competition (web group) problems on **[Bilibili](https://space.bilibili.com/3493089530350281)**.
